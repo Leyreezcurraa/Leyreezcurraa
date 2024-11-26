@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Leyre Ezcurra , I am Data Analyst with a background in Psychology, I passionate about bringing a unique perspective to data analysis by combining technical skills with a deep understanding of human behavior.</p>
+<p align="left">I'm Leyre Ezcurra , I am Data Analyst with a background in Psychology, I am passionate about bringing a unique perspective to data analysis by combining technical skills with a deep understanding of human behavior.</p>
 
 ###
 
